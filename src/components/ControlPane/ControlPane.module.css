@@ -29,6 +29,5 @@
 @media screen and (max-width: 600px) {
   .controlPane {
     margin-right: 20px;
-    max-width: 400px;
   }
 }
